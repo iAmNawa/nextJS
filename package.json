@@ -1,0 +1,25 @@
+{
+  "name": "nextJS",
+  "version": "1.0.0",
+  "description": "BUilding a small NextJS app.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iAmNawa/nextJS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iAmNawa/nextJS/issues"
+  },
+  "homepage": "https://github.com/iAmNawa/nextJS#readme",
+  "dependencies": {
+    "next": "^8.0.4",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  }
+}
